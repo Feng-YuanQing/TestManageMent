@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/Login/Login.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/StuInfoManage/Mytable_Stu.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/StuInfoManage/OurInterView.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/StuInfoManage/StuInquireView.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/StuInfoManage/StuManageView.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/StuInfoManage/UI_admin_stuInfoMange.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/dao/StudentManageDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/dao/dao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/model/Manager.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/model/StudentManage.java" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>

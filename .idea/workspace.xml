@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a8257793-aab3-4e45-ada6-3267f301454e" name="Default Changelist" comment="java Swing">
+      <change afterPath="$PROJECT_DIR$/../Banker_Algorithm/Banker_Algorithm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exam_1/Exam_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaExam_34/JavaExam_34.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KTest/KTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudentManager/StudentManager.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/.idea/Test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/Test/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/2fa59e8e-08a6-4973-843c-f1285d57b41e.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/2fa59e8e-08a6-4973-843c-f1285d57b41e/storage_v2/_src_/schema/Su_She_Guan_Li_Xi_Tong.t9eK8Q.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/2fa59e8e-08a6-4973-843c-f1285d57b41e/storage_v2/_src_/schema/Su_She_Guan_Li_Xi_Tong.t9eK8Q.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/2fa59e8e-08a6-4973-843c-f1285d57b41e/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/cb812e87-a25e-42b2-be84-7fa4b12fd67b.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/cb812e87-a25e-42b2-be84-7fa4b12fd67b/storage_v2/_src_/schema/Su_She_Guan_Li_Xi_Tong.t9eK8Q.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/cb812e87-a25e-42b2-be84-7fa4b12fd67b/storage_v2/_src_/schema/Su_She_Guan_Li_Xi_Tong.t9eK8Q.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/cb812e87-a25e-42b2-be84-7fa4b12fd67b/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_181.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_182.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/035.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/666.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6666.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/888.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestManagement.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/035.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/666.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/6666.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/888.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/AccomInfoManage/HomePanel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/AccomInfoManage/MyJTable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/AccomInfoManage/Mytable_DormAdjust.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/AccomInfoManage/Mytable_accom.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/AccomInfoManage/UI_admin_accomInfoManage$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/AccomInfoManage/UI_admin_accomInfoManage$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/AccomInfoManage/UI_admin_accomInfoManage$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/AccomInfoManage/UI_admin_accomInfoManage$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/AccomInfoManage/UI_admin_accomInfoManage$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/AccomInfoManage/UI_admin_accomInfoManage$6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/AccomInfoManage/UI_admin_accomInfoManage$7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/AccomInfoManage/UI_admin_accomInfoManage$8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/AccomInfoManage/UI_admin_accomInfoManage$9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/AccomInfoManage/UI_admin_accomInfoManage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/DailyManage/HomePanel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/DailyManage/Mytable_Violations.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/DailyManage/ui_admin_DailyManage_2$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/DailyManage/ui_admin_DailyManage_2$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/DailyManage/ui_admin_DailyManage_2$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/DailyManage/ui_admin_DailyManage_2$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/DailyManage/ui_admin_DailyManage_2$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/DailyManage/ui_admin_DailyManage_2$6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/DailyManage/ui_admin_DailyManage_2$7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/DailyManage/ui_admin_DailyManage_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/DataBaseManage/DBManage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/DormInfoManage/HomePanel2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/DormInfoManage/Mytable_Care.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/DormInfoManage/Mytable_Dorm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/DormInfoManage/Mytable_Floor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/DormInfoManage/UI_admin_dromInfoManage_2$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/DormInfoManage/UI_admin_dromInfoManage_2$10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/DormInfoManage/UI_admin_dromInfoManage_2$11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/DormInfoManage/UI_admin_dromInfoManage_2$12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/DormInfoManage/UI_admin_dromInfoManage_2$13.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/DormInfoManage/UI_admin_dromInfoManage_2$14.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/DormInfoManage/UI_admin_dromInfoManage_2$15.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/DormInfoManage/UI_admin_dromInfoManage_2$16.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/DormInfoManage/UI_admin_dromInfoManage_2$17.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/DormInfoManage/UI_admin_dromInfoManage_2$18.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/DormInfoManage/UI_admin_dromInfoManage_2$19.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/DormInfoManage/UI_admin_dromInfoManage_2$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/DormInfoManage/UI_admin_dromInfoManage_2$20.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/DormInfoManage/UI_admin_dromInfoManage_2$21.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/DormInfoManage/UI_admin_dromInfoManage_2$22.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/DormInfoManage/UI_admin_dromInfoManage_2$23.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/DormInfoManage/UI_admin_dromInfoManage_2$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/DormInfoManage/UI_admin_dromInfoManage_2$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/DormInfoManage/UI_admin_dromInfoManage_2$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/DormInfoManage/UI_admin_dromInfoManage_2$6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/DormInfoManage/UI_admin_dromInfoManage_2$7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/DormInfoManage/UI_admin_dromInfoManage_2$8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/DormInfoManage/UI_admin_dromInfoManage_2$9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/DormInfoManage/UI_admin_dromInfoManage_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/Login/HomePanel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/Login/Login.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/Login/StringUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/Login/UI_Registered.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/Login/UI_RetrievePassword.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/Login/UI_admin$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/Login/UI_admin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/Login/UI_admin_changePassword.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/Login_21.929411764706px_1198326_easyicon.net.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/META-INF/TestManagement.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/Password.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/StuInfoManage/OurInterView$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/StuInfoManage/OurInterView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/StuInfoManage/StuInquireView$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/StuInfoManage/StuInquireView$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/StuInfoManage/StuInquireView$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/StuInfoManage/StuInquireView$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/StuInfoManage/StuInquireView$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/StuInfoManage/StuInquireView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/StuInfoManage/StuManageView$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/StuInfoManage/StuManageView$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/StuInfoManage/StuManageView$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/StuInfoManage/StuManageView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/StuInfoManage/UI_admin_stuInfoMange$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/StuInfoManage/UI_admin_stuInfoMange$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/StuInfoManage/UI_admin_stuInfoMange$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/StuInfoManage/UI_admin_stuInfoMange$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/StuInfoManage/UI_admin_stuInfoMange$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/StuInfoManage/UI_admin_stuInfoMange.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/aboutour.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/arrows_keyboard_return_24px_1182516_easyicon.net - 副本 (2).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/arrows_keyboard_return_24px_1182516_easyicon.net.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/back2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/back3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/dao/StudentManageDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/dao/dao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/house_48px_1228993_easyicon.net.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/logon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/logon1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/model/Manager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/model/StudentManage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/our.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/query_search_24px_1132439_easyicon.net.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/return_24px_1169388_easyicon.net.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/timg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/timg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/userIcon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/winter-scene.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/修改(1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/删除.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/查询-default.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/确定.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestManagement/重置.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AccomInfoManage/Mytable_DormAdjust.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AccomInfoManage/Mytable_accom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AccomInfoManage/UI_admin_accomInfoManage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DailyManage/Mytable_Violations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DailyManage/ui_admin_DailyManage_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataBaseManage/DBManage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DormInfoManage/Mytable_Care.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DormInfoManage/Mytable_Dorm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DormInfoManage/Mytable_Floor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DormInfoManage/UI_admin_dromInfoManage_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Login/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Login/StringUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Login/UI_Registered.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Login/UI_RetrievePassword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Login/UI_admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Login/UI_admin_changePassword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StuInfoManage/OurInterView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StuInfoManage/StuInquireView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StuInfoManage/StuManageView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StuInfoManage/UI_admin_stuInfoMange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dao/StudentManageDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dao/dao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/StudentManage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestWeb/TestWeb.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebTest/WebTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Work1/Work1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textbook-master/book.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textbooks-master/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textbooks-master/.idea/artifacts/textbooksManagement_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textbooks-master/.idea/artifacts/textbooksManagement_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textbooks-master/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textbooks-master/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textbooks-master/.idea/libraries/Maven__com_alibaba_fastjson_1_2_56.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textbooks-master/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textbooks-master/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textbooks-master/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textbooks-master/.idea/libraries/Maven__com_github_virtuald_curvesapi_1_04.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textbooks-master/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textbooks-master/.idea/libraries/Maven__com_sun_mail_javax_mail_1_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textbooks-master/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textbooks-master/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textbooks-master/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textbooks-master/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textbooks-master/.idea/libraries/Maven__javax_activation_activation_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textbooks-master/.idea/libraries/Maven__javax_javaee_api_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textbooks-master/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textbooks-master/.idea/libraries/Maven__jstl_jstl_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textbooks-master/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textbooks-master/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textbooks-master/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textbooks-master/.idea/libraries/Maven__org_apache_commons_commons_dbcp2_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textbooks-master/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textbooks-master/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textbooks-master/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textbooks-master/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textbooks-master/.idea/libraries/Maven__org_apache_logging_log4j_log4j_slf4j_impl_2_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textbooks-master/.idea/libraries/Maven__org_apache_poi_poi_3_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textbooks-master/.idea/libraries/Maven__org_apache_poi_poi_ooxml_3_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textbooks-master/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_3_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textbooks-master/.idea/libraries/Maven__org_apache_taglibs_taglibs_standard_impl_1_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textbooks-master/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textbooks-master/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textbooks-master/.idea/libraries/Maven__org_freemarker_freemarker_2_3_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textbooks-master/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textbooks-master/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_1_0_M2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textbooks-master/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_1_0_M2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textbooks-master/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_1_0_M2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textbooks-master/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_1_0_M2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textbooks-master/.idea/libraries/Maven__org_junit_platform_junit_platform_launcher_1_1_0_M2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textbooks-master/.idea/libraries/Maven__org_junit_vintage_junit_vintage_engine_5_1_0_M2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textbooks-master/.idea/libraries/Maven__org_mybatis_mybatis_3_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textbooks-master/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textbooks-master/.idea/libraries/Maven__org_opentest4j_opentest4j_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textbooks-master/.idea/libraries/Maven__org_projectlombok_lombok_1_16_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textbooks-master/.idea/libraries/Maven__org_slf4j_slf4j_api_1_8_0_alpha2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textbooks-master/.idea/libraries/Maven__org_springframework_spring_aop_5_0_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textbooks-master/.idea/libraries/Maven__org_springframework_spring_beans_5_0_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textbooks-master/.idea/libraries/Maven__org_springframework_spring_context_5_0_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textbooks-master/.idea/libraries/Maven__org_springframework_spring_context_support_4_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textbooks-master/.idea/libraries/Maven__org_springframework_spring_core_5_0_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textbooks-master/.idea/libraries/Maven__org_springframework_spring_expression_5_0_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textbooks-master/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textbooks-master/.idea/libraries/Maven__org_springframework_spring_jdbc_5_0_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textbooks-master/.idea/libraries/Maven__org_springframework_spring_test_5_0_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textbooks-master/.idea/libraries/Maven__org_springframework_spring_tx_5_0_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textbooks-master/.idea/libraries/Maven__org_springframework_spring_web_5_0_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textbooks-master/.idea/libraries/Maven__org_springframework_spring_webmvc_5_0_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textbooks-master/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textbooks-master/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textbooks-master/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textbooks-master/.idea/textbooks-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textbooks-master/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textbooks-master/textbooks-master/textbooksManagement.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textbooks-master2/.idea/textbooks-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textbooks-master2/textbooks-master/textbooksManagement.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../work/work.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBCTest.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/miglayout-core-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/miglayout-core-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/miglayout-core.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/miglayout-swing-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/miglayout-swing-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/miglayout-swing.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/JDBCTest/cn/edu/nuc1/DBSystemManage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/JDBCTest/cn/edu/nuc1/ui/Login/AdminRegistActivity$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/JDBCTest/cn/edu/nuc1/ui/Login/AdminRegistActivity$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/JDBCTest/cn/edu/nuc1/ui/Login/AdminRegistActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/JDBCTest/cn/edu/nuc1/ui/Login/LoginActivity$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/JDBCTest/cn/edu/nuc1/ui/Login/LoginActivity$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/JDBCTest/cn/edu/nuc1/ui/Login/LoginActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/JDBCTest/cn/edu/nuc1/ui/Login/TeacherRegistActivity$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/JDBCTest/cn/edu/nuc1/ui/Login/TeacherRegistActivity$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/JDBCTest/cn/edu/nuc1/ui/Login/TeacherRegistActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/JDBCTest/cn/edu/nuc1/ui/manage/AdminManageActivity$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/JDBCTest/cn/edu/nuc1/ui/manage/AdminManageActivity$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/JDBCTest/cn/edu/nuc1/ui/manage/AdminManageActivity$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/JDBCTest/cn/edu/nuc1/ui/manage/AdminManageActivity$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/JDBCTest/cn/edu/nuc1/ui/manage/AdminManageActivity$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/JDBCTest/cn/edu/nuc1/ui/manage/AdminManageActivity$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/JDBCTest/cn/edu/nuc1/ui/manage/AdminManageActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/JDBCTest/cn/edu/nuc1/ui/manage/AdminSendDeleteUpdate$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/JDBCTest/cn/edu/nuc1/ui/manage/AdminSendDeleteUpdate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/JDBCTest/cn/edu/nuc1/ui/manage/TeacherManageActivity$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/JDBCTest/cn/edu/nuc1/ui/manage/TeacherManageActivity$10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/JDBCTest/cn/edu/nuc1/ui/manage/TeacherManageActivity$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/JDBCTest/cn/edu/nuc1/ui/manage/TeacherManageActivity$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/JDBCTest/cn/edu/nuc1/ui/manage/TeacherManageActivity$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/JDBCTest/cn/edu/nuc1/ui/manage/TeacherManageActivity$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/JDBCTest/cn/edu/nuc1/ui/manage/TeacherManageActivity$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/JDBCTest/cn/edu/nuc1/ui/manage/TeacherManageActivity$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/JDBCTest/cn/edu/nuc1/ui/manage/TeacherManageActivity$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/JDBCTest/cn/edu/nuc1/ui/manage/TeacherManageActivity$9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/JDBCTest/cn/edu/nuc1/ui/manage/TeacherManageActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/JDBCTest/cn/edu/nuc1/utils/ModifyTable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/JDBCTest/cn/edu/nuc1/utils/ShowTable.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="宿舍管理系统: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\JavaProjects\TestManagement\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VWgD6Dl1NVausjm8PSNkDHK6iF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JavaProjects\TestManageMent_统一连接\src" />
+      <recent name="D:\JavaProjects\TestManageMent_统一连接\src\StuInfoManage" />
+      <recent name="D:\JavaProjects\TestManagement\src\AccomInfoManage" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Login">
+    <configuration name="Login" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Login.Login" />
+      <module name="TestManagement" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Login.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OurInterView" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StuInfoManage.OurInterView" />
+      <module name="TestManagement" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StuInfoManage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StuManageView" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StuInfoManage.StuManageView" />
+      <module name="TestManagement" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StuInfoManage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UI_Registered" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Login.UI_Registered" />
+      <module name="TestManagement" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Login.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ui_admin_DailyManage_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DailyManage.ui_admin_DailyManage_2" />
+      <module name="TestManagement" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DailyManage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Login" />
+        <item itemvalue="Application.ui_admin_DailyManage_2" />
+        <item itemvalue="Application.OurInterView" />
+        <item itemvalue="Application.UI_Registered" />
+        <item itemvalue="Application.StuManageView" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8257793-aab3-4e45-ada6-3267f301454e" name="Default Changelist" comment="" />
+      <created>1577374142730</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577374142730</updated>
+      <workItem from="1577374145780" duration="3052000" />
+      <workItem from="1577443502071" duration="326000" />
+      <workItem from="1577665902061" duration="3969000" />
+      <workItem from="1577670035538" duration="5730000" />
+      <workItem from="1577752810939" duration="10199000" />
+      <workItem from="1577947675019" duration="6973000" />
+      <workItem from="1577955682980" duration="2328000" />
+      <workItem from="1578034822880" duration="9476000" />
+      <workItem from="1578112832685" duration="55000" />
+      <workItem from="1578126599903" duration="373000" />
+      <workItem from="1578127030030" duration="383000" />
+      <workItem from="1578127450395" duration="322000" />
+      <workItem from="1578128358558" duration="436000" />
+      <workItem from="1578128879272" duration="15804000" />
+      <workItem from="1578272682217" duration="19379000" />
+      <workItem from="1578358954298" duration="9924000" />
+      <workItem from="1578382446303" duration="7054000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="java Swing" />
+    <option name="LAST_COMMIT_MESSAGE" value="java Swing" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="74" key="#Project_Structure" timestamp="1577956185308">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1577675866237" />
+    <state x="361" y="74" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1577956185308" />
+    <state x="320" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577948907171">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="320" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1577948907171" />
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser" timestamp="1578297501626">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1578297501626" />
+    <state x="389" y="91" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1577753895737">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="389" y="91" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.824@0.0.1536.824" timestamp="1577753895737" />
+    <state x="614" y="321" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1577955721000">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="614" y="321" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.864@0.0.1536.864" timestamp="1577955721000" />
+    <state x="616" y="314" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1578362571599">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="616" y="314" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.824@0.0.1536.824" timestamp="1578362571599" />
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578276032782">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1578276032782" />
+    <state x="295" y="9" key="CommitChangelistDialog2" timestamp="1578390066910">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="295" y="9" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1578390066910" />
+    <state x="445" y="153" key="FileChooserDialogImpl" timestamp="1578388866397">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="445" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1578388866397" />
+    <state x="445" y="160" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1577956182104" />
+    <state x="589" y="308" key="Github.ShareDialog" timestamp="1578390146110">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="589" y="308" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1578390146110" />
+    <state x="454" y="120" key="Github.UntrackedFilesDialog" timestamp="1578389796743">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="454" y="120" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1578389796743" />
+    <state width="818" height="120" key="GridCell.Tab.0.bottom" timestamp="1578390066959">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="818" height="120" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1578390066959" />
+    <state width="1493" height="147" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1577957976336" />
+    <state width="818" height="120" key="GridCell.Tab.0.center" timestamp="1578390066959">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="818" height="120" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1578390066959" />
+    <state width="1493" height="147" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1577957976336" />
+    <state width="818" height="120" key="GridCell.Tab.0.left" timestamp="1578390066959">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="818" height="120" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1578390066959" />
+    <state width="1493" height="147" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1577957976336" />
+    <state width="818" height="120" key="GridCell.Tab.0.right" timestamp="1578390066959">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="818" height="120" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1578390066959" />
+    <state width="1493" height="147" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1577957976336" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1578379932042">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1578379932042" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1578379932041">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1578379932041" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1578379932041">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1578379932041" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1578379932042">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1578379932042" />
+    <state width="212" height="477" key="HiddenNamespacesPopup" timestamp="1577667138204">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="212" height="477" key="HiddenNamespacesPopup/0.0.1536.824@0.0.1536.824" timestamp="1577667138204" />
+    <state x="270" y="0" key="SettingsEditor" timestamp="1578389845168">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1578389845168" />
+    <state x="478" y="52" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1577667152728">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="478" y="52" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1577667152728" />
+    <state x="449" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1578382446192">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1578382446192" />
+    <state x="485" y="306" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1577667185483">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="485" y="306" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1577667185483" />
+    <state x="508" y="193" width="782" height="600" key="find.popup" timestamp="1578385841886">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="508" y="193" width="782" height="600" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1578385841886" />
+    <state x="571" y="162" width="782" height="630" key="find.popup/0.0.1536.864@0.0.1536.864" timestamp="1577957536279" />
+    <state x="178" y="22" key="new project wizard" timestamp="1577761429806">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="22" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1577761429806" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1578386140161">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1578386140161" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1578057744644">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1578057744644" />
+  </component>
+</project>
